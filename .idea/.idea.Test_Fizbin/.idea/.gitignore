@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.Test_Fizbin.iml
+# Datasource local storage ignored files
+/../../../../../../:\GitHub\Test_Fizbin\.idea\.idea.Test_Fizbin\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
